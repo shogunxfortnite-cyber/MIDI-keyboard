@@ -25,3 +25,6 @@ My repo has both the ino and py script.
 | Potentiometer_Bourns_PTA1543_Single_Slide (The sliding part) | 2 | $2.00 | $4.00 | Element 14 India | https://in.element14.com/bourns/pta3043-2010cib103/pot-slide-10kohm-0-2w/dp/2519655 |
 | The PCB (Holding all the components) | 1 | $6.00 | $6.00 | Robu | robu.in |
 | **Total** | | | **$30.00** | | |
+
+## Schematic
+<img width="1449" height="902" alt="1stone" src="https://github.com/user-attachments/assets/6c581f21-5880-4e92-9fe8-a58bcb622c3c" />
