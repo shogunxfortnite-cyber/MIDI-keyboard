@@ -29,4 +29,8 @@ My repo has both the ino and py script.
 ## Schematic
 <img width="1449" height="902" alt="1stone" src="https://github.com/user-attachments/assets/6c581f21-5880-4e92-9fe8-a58bcb622c3c" />
 ## KICAD symbols and footprints 
-You can find these at https://github.com/KaiPereira/MIDI-Keypad/blob
+You can find these at https://github.com/KaiPereira/MIDI-Keypad
+
+## made for hack club 
+This project is made for hack club
+
