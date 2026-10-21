@@ -28,7 +28,9 @@ My repo has both the ino and py script.
 
 ## Schematic
 <img width="1449" height="902" alt="1stone" src="https://github.com/user-attachments/assets/6c581f21-5880-4e92-9fe8-a58bcb622c3c" />
+
 ## PCB
+
 <img width="1319" height="867" alt="Screenshot 2026-10-21 144502" src="https://github.com/user-attachments/assets/4dbc611c-a69f-466b-a041-f671a949db0a" />
 
 
